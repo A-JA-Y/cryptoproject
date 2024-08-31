@@ -1,3 +1,4 @@
+import Data from "./components/data";
 import Hero from "./components/hero";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     Hello Crypto!
   </h1>
   <Hero/>
+  <Data/>
 
 
 
